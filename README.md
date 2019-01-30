@@ -1,2 +1,2 @@
 # greeting
-A simple project to play with github features.
+A simple project to refine agile development practices.
